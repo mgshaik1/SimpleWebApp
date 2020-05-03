@@ -118,7 +118,7 @@
         <webResources>
               <resource>
                                     <!-- this is relative to the pom.xml directory -->
-                 <directory>/home/ec2-user/.jenkins/workspace/maven-job1/WebContent</directory>
+                 <directory>/root/.jenkins/workspace/maven-job/WebContent</directory>
               </resource>
         </webResources>
    </configuration>         
